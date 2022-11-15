@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kalashri_patil\\Downloads\\Trainer_calender_version_2.0.0 (1)\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kalashri_patil\\Downloads\\Trainer_calender_version_2.0.0 (1)\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kalashri_patil\\Downloads\\Trainer_calender_version_2.0.0 (1)\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0.csproj",
+        "projectName": "Trainer_calender_version_2.0.0",
+        "projectPath": "C:\\Users\\kalashri_patil\\Downloads\\Trainer_calender_version_2.0.0 (1)\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0.csproj",
+        "packagesPath": "C:\\Users\\kalashri_patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalashri_patil\\Downloads\\Trainer_calender_version_2.0.0 (1)\\Trainer_calender_version_2.0.0\\Trainer_calender_version_2.0.0\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kalashri_patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

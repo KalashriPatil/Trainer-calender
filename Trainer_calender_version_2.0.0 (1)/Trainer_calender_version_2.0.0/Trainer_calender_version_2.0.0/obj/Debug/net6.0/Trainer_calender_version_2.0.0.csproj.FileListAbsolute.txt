@@ -1,0 +1,82 @@
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.AssemblyReference.cache
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.AssemblyInfoInputs.cache
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.AssemblyInfo.cs
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.CoreCompileInputs.cache
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\appsettings.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.exe
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.deps.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.runtimeconfig.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.pdb
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\scopedcss\bundle\Trainer_calender_version_2.0.0.styles.css
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.CopyComplete
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\refint\Trainer_calender_version_2.0.0.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.pdb
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.genruntimeconfig.cache
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\ref\Trainer_calender_version_2.0.0.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\piyush_kumar4\source\repos\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\appsettings.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.exe
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.deps.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.runtimeconfig.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Trainer_calender_version_2.0.0.pdb
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.AssemblyReference.cache
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.AssemblyInfoInputs.cache
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.AssemblyInfo.cs
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.CoreCompileInputs.cache
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\scopedcss\bundle\Trainer_calender_version_2.0.0.styles.css
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.csproj.CopyComplete
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\refint\Trainer_calender_version_2.0.0.dll
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.pdb
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\Trainer_calender_version_2.0.0.genruntimeconfig.cache
+C:\Users\kalashri_patil\Downloads\Trainer_calender_version_2.0.0 (1)\Trainer_calender_version_2.0.0\Trainer_calender_version_2.0.0\obj\Debug\net6.0\ref\Trainer_calender_version_2.0.0.dll
